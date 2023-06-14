@@ -1,0 +1,15 @@
+.outlined {
+    padding: 4px 4px;
+    border-radius: 4px;
+    width: 50vw;
+
+}
+
+.underline {
+    padding: 4px 4px;
+    border-bottom: 2px solid black;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    width: 50vw;
+}

@@ -1,0 +1,30 @@
+.contained {
+    background-color: blue;
+    border-radius: 6px;
+    padding: 4px 24px;
+    color: white;
+    font-weight: 500;
+    letter-spacing: 0.1rem;
+    border: 2px solid blue;
+    text-align: center;
+}
+.outlined {
+    background-color: white;
+    border-radius: 6px;
+    padding: 4px 24px;
+    color: black;
+    font-weight: 500;
+    letter-spacing: 0.1rem;
+    border: 2px solid black;
+    text-align: center;
+}
+.text {
+    background-color: white;
+    border-radius: 6px;
+    padding: 4px 24px;
+    color: blue;
+    font-weight: 500;
+    letter-spacing: 0.1rem;
+    text-align: center;
+    border: 2px solid white;
+}
